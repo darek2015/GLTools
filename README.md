@@ -1,4 +1,4 @@
-<h1 align="center">GLTools v4.02 Magisk Installer Mod</h1>
+<h1 align="center">GLTools v4.02 with Magisk 20+ Support</h1>
 
 <div align="center">
   <!-- Release Version -->
