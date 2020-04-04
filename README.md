@@ -20,5 +20,5 @@
 </div>
 
 ### Usage
-- Install GLTools from [HERE](https://github.com/Ahsan40/GLTools/releases) **(Not Available on Playstore)**
+- Install GLTools from [HERE](https://github.com/Ahsan40/GLTools/releases)
 - Now use as you want. Good Luck :)
