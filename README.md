@@ -16,9 +16,9 @@
 </div>
 
 <div align="center">
-  <strong>It's a modified version of official GLTools Magisk Module to add support Magisk 20+ compability. This module is only for GLTools v4.02. This module is created based on latest Magisk Module Template Extended (MMT-Ex). I will try to keep it updated.
+  <strong>It's a modified version of official GLTools to add support Magisk 20+ compability. I added latest Magisk Module Extended (MMT-Ex) support on it. I will try to keep it updated with magisk module template.</strong>
 </div>
 
 ### Usage
-- Install GLTool from https://gltools.app **(Not Available on Playstore)**
-- Then install this module and reboot. Good Luck :)
+- Install GLTools from [HERE](https://github.com/Ahsan40/GLTools/releases) **(Not Available on Playstore)**
+- Now use as you want. Good Luck :)
