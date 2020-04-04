@@ -1,14 +1,14 @@
 <h1 align="center">GLTools v4.02 Magisk Installer Mod</h1>
 
 <div align="center">
+  <!-- Release Version -->
+    <img src="https://img.shields.io/badge/Release-v1.0-red.svg?longCache=true&style=popout-square"
+      alt="Version" />
   <!-- MMT-Ex Version -->
     <img src="https://img.shields.io/badge/MMT Ex-v1.5-blue.svg?longCache=true&style=popout-square"
       alt="Version" />
-  <!-- Release Version -->
-    <img src="https://img.shields.io/badge/Release-v1.0-blue.svg?longCache=true&style=popout-square"
-      alt="Version" />
   <!-- GLTools Version -->
-    <img src="https://img.shields.io/badge/GLTools-v4.02-blue.svg?longCache=true&style=popout-square"
+    <img src="https://img.shields.io/badge/GLTools-v4.02-yellow.svg?longCache=true&style=popout-square"
       alt="Version" />
   <!-- Last Updated -->
     <img src="https://img.shields.io/badge/Updated-April 04, 2020-green.svg?longCache=true&style=flat-square"
