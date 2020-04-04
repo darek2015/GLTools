@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.5
-versionCode=6
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=gltools
+name=GLTools Ext
+version=4.02
+versionCode=402
+author=Ahsan400
+description=It's a modified version of official GLTools Magisk Module to add support Magisk 20+ compability. This module is only for GLTools v4.02. 
+support=https://t.me/Ahsan400
