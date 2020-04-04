@@ -29,16 +29,13 @@ is_legacy_script() {
 }
 
 print_modname() {
-  local len
-  len=`echo -n $MODNAME | wc -c`
-  len=$((len + 2))
-  local pounds=`printf "%${len}s" | tr ' ' '*'`
-  ui_print "$pounds"
-  ui_print " $MODNAME "
-  ui_print "$pounds"
-  ui_print "*******************"
-  ui_print " Powered by Magisk "
-  ui_print "*******************"
+  ui_print " "
+  ui_print " *************************************"
+  ui_print " *        GLTools Magisk EXT         *"
+  ui_print " *          Mod by Ahsan400          *"
+  ui_print " *************************************"
+  ui_print " *         Powered by Magisk         *"
+  ui_print " *************************************"
 }
 
 ##############
@@ -169,5 +166,9 @@ cd /
 $BOOTMODE || recovery_cleanup
 rm -rf $TMPDIR
 
-ui_print "- Done"
+  ui_print " **************************************"
+  ui_print " *     Module Excuted Successfully    *"
+  ui_print " **************************************"
+  ui_print " *   MMT Extended by Zackptg5 @ XDA   *"
+  ui_print " **************************************"
 exit 0
