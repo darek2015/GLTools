@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/MMT Ex-v1.5-blue.svg?longCache=true&style=popout-square"
       alt="Version" />
   <!-- GLTools Version -->
-    <img src="https://img.shields.io/badge/GLTools-v4.02-yellow.svg?longCache=true&style=popout-square"
+    <img src="https://img.shields.io/badge/GLTools-v4.02-cyan.svg?longCache=true&style=popout-square"
       alt="Version" />
   <!-- Last Updated -->
     <img src="https://img.shields.io/badge/Updated-April 04, 2020-green.svg?longCache=true&style=flat-square"
