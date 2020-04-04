@@ -1,35 +1,24 @@
-<h1 align="center">Magisk Module Template Extended (MMT-Ex)</h1>
+<h1 align="center">GLTools v4.02 Magisk Installer Mod</h1>
 
 <div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v1.5-blue.svg?longCache=true&style=popout-square"
+  <!-- MMT-Ex Version -->
+    <img src="https://img.shields.io/badge/MMT Ex-v1.5-blue.svg?longCache=true&style=popout-square"
+      alt="Version" />
+  <!-- Release Version -->
+    <img src="https://img.shields.io/badge/Release-v1.0-blue.svg?longCache=true&style=popout-square"
+      alt="Version" />
+  <!-- GLTools Version -->
+    <img src="https://img.shields.io/badge/GLTools-v4.02-blue.svg?longCache=true&style=popout-square"
       alt="Version" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-March 27, 2020-green.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-April 04, 2020-green.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
 </div>
 
 <div align="center">
-  <strong>MMT Extended is the spiritual successor of Unity and makes magisk module creation easy. More details in the 
-    <a href="https://github.com/Zackptg5/MMT-Extended/wiki">wiki</a>.
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://github.com/Zackptg5/MMT-Extended">
-      Source Code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Zackptg5/MMT-Extended-Addons">
-      Addons Repository
-    </a>
-    <span> | </span>
-    <a href="https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819">
-      XDA
-    </a>
-  </h3>
+  <strong>It's a modified version of official GLTools Magisk Module to add support Magisk 20+ compability. This module is only for GLTools v4.02. This module is created based on latest Magisk Module Template Extended (MMT-Ex). I will try to keep it updated.
 </div>
 
 ### Usage
-- [Follow the directions here (DO NOT FORK)](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-- Then follow instructions in [Wiki](https://github.com/Zackptg5/MMT-Extended/wiki)
+- Install GLTool from https://gltools.app **(Not Available on Playstore)**
+- Then install this module and reboot. Good Luck :)
