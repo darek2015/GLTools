@@ -167,7 +167,7 @@ $BOOTMODE || recovery_cleanup
 rm -rf $TMPDIR
 
   ui_print " **************************************"
-  ui_print " *     Module Excuted Successfully    *"
+  ui_print " *    Module Executed Successfully    *"
   ui_print " **************************************"
   ui_print " *   MMT Extended by Zackptg5 @ XDA   *"
   ui_print " **************************************"
